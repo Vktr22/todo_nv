@@ -1,0 +1,1 @@
+//itt példányosítom a játékteret
