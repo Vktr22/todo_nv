@@ -1,4 +1,4 @@
-export default class Beviitel {
+export default class Bevitel {
     constructor(szuloElem){
         this.szuloElem = szuloElem;
         this.megjelenit();
